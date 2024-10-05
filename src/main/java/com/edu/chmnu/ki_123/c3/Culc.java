@@ -1,4 +1,4 @@
-package org.example;
+package com.edu.chmnu.ki_123.c3;
 
 import static java.lang.Math.cos;
 import static java.lang.Math.exp;
